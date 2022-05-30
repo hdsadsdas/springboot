@@ -8,11 +8,11 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>springboot-mvc</artifactId>
+    <groupId>com.haha</groupId>
+    <artifactId>springboot-second</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>005-springboot-mvc</name>
-    <description>005-springboot-mvc</description>
+    <name>003-springboot-second</name>
+    <description>003-springboot-second</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
